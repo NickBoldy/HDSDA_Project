@@ -1,0 +1,43 @@
+Long_Name,Short_Name,Display_Name
+OBJECTID,OBJECTID,OBJECTID
+Field_Name,FIELDNAME,Field Name
+Field_Region,FIELDAREA,Field Region
+Location,LOCATION,"Onshore, Offshore Flag"
+Operator_Organisation_Group,ORGGRPNM,Operator Organisation Group
+Reporting_Unit_Name,UNITNAME,Reporting Unit Name
+Reporting_Unit_Type_Code,UNITTYPCOD,Reporting Unit Type Code
+Reporting_Unit_Type_Desc,UNITTYPDES,Reporting Unit Type Description
+Reporting_Period_Year_Month,PERIODYRMN,Reporting Period in yyyymm Format
+Reporting_Period_Year,PERIODYR,Reporting Period Year
+Reporting_Period_Month,PERIODMNTH,Reporting Period Month
+Reporting_Period_Month_Name,PERIODMNNM,Reporting Period Month Name
+Reporting_Period_Date,PERIODDATE,Reporting Period Date
+Oil_Production_Mass_tonnes,OILPRODMAS,Oil Production - Mass (tonnes)
+Oil_Production_Volume_m3,OILPRODM3,Oil Production - Volume (m3)
+Oil_Production_Volume_mb_d,OILPRODMBD,Oil Production - Volume (mb/d)
+Oil_Production_Density_Kg_m3,OILPRDDENS,Oil Production - Density (Kg/m3)
+Assoc_Gas_Prod_Mass_tonnes,AGASPRODMA,Associated Gas Production - Mass (tonnes)
+Assoc_Gas_Prod_Volume_Ksm3,AGASPROKSM,Associated Gas Production - Volume (Ksm3)
+Assoc_Gas_Prod_Volume_MMscf_d,AGASPROMMS,Associated Gas Production - Volume (MMscf/d)
+Assoc_Gas_Prod_Density_Kg_sm3,AGASPRODEN,Associated Gas Production - Density (Kg/sm3)
+Dry_Gas_Production_Mass_tonnes,DGASPRODMA,Dry Gas Production - Mass (tonnes)
+Dry_Gas_Production_Volume_Ksm3,DGASPROKSM,Dry Gas Production - Volume (Ksm3)
+Dry_Gas_Prod_Volume_MMscf_d,DGASPROMMS,Dry Gas Production - Volume (MMscf/d)
+Dry_Gas_Prod_Density_Kg_sm3,DGASPRODEN,Dry Gas Production - Density (Kg/sm3)
+Gas_Condensate_Mass_tonnes,GCONDMASS,Gas Condensate - Mass (tonnes)
+Gas_Condensate_Volume_m3,GCONDVOL,Gas Condensate - Volume (m3)
+Gas_Condensate_Volume_mb_d,GCONDMBD,Gas Condensate - Volume (mb/d)
+Gas_Condensate_Density_Kg_m3,GCONDDEN,Gas Condensate - Density (Kg/m3)
+Gas_Injected_CV_MJ_sm3,GASINJCV,Gas Injected - CV (MJ/sm3)
+Gas_Injected_Volume_Ksm3,GASINJVOL,Gas Injected - Volume (Ksm3)
+Gas_Flared_Volume_Ksm3,GASFLARVOL,Gas Flared - Volume (Ksm3)
+Gas_Flared_Density_Kg_sm3,GASFLARDEN,Gas Flared - Density (Kg/sm3)
+Gas_Flared_Non_Hydrocarbon_pc,GASFLARNH,Gas Flared - Non Hydrocarbon (%)
+Gas_Vented_Volume_Ksm3,GASVENTVOL,Gas Vented - Volume (Ksm3)
+Gas_Vented_Density_Kg_sm3,GASVENTDEN,Gas Vented - Density (Kg/sm3)
+Gas_Vented_Non_Hydrocarbon_pc,GASVENTNH,Gas Vented - Non Hydrocarbon (%)
+Injected_Water_Volume_m3,INJWATVOL,Injected Water - Volume (m3)
+Produced_Water_Mass_Kg,WATPRODMAS,Produced Water - Mass (Kg)
+Produced_Water_Volume_m3,WATPRODVOL,Produced Water - Volume (m3)
+Produced_Water_Volume_mb_d,WATPRODMBD,Produced Water - Volume (mb/d)
+Reinj_Prod_Water_Volume_m3,REINJWATVO,Reinjected Produced Water - Volume (m3)
